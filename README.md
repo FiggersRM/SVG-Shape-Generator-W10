@@ -18,10 +18,10 @@ N/A
 
 ## Credits
 
-Inquirer: https://www.npmjs.com/package/inquirer
-Jest: https://www.npmjs.com/package/jest
-fs: https://www.npmjs.com/package/fs
+* Inquirer: https://www.npmjs.com/package/inquirer
+* Jest: https://www.npmjs.com/package/jest
+* fs: https://www.npmjs.com/package/fs
 
 ## Example Video
 
-https://drive.google.com/file/d/1EYV9Z45Pe-aFF26-9V0NVf5JnHRbMUnP/view?usp=sharing
+https://drive.google.com/file/d/1Zw_2fOdGBCz5YefbB8nEF_29xbTVGqd-/view
